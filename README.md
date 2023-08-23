@@ -1,4 +1,4 @@
-# **. RSA FACTORING CHALLENGE**
+# **RSA FACTORING CHALLENGE**
 `Algorithm` `Scripting`
 
 # Background Context
